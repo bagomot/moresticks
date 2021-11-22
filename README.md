@@ -1,1 +1,3 @@
-Adds the recipe for sticks
+# The MoreSticks VintageStore mod.
+
+This mod adds the recipe for sticks.
