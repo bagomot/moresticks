@@ -1,1 +1,1 @@
-=== Adds the recipe for sticks
+Adds the recipe for sticks
