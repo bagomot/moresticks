@@ -1,0 +1,15 @@
+{
+  "type": "content",
+  "modid": "moresticks",
+  "name": "MoreSticks",
+  "description": "Adds the recipe for sticks",
+  "authors": [
+    "Bagomot"
+  ],
+  "version": "1.0.0",
+  "dependencies": {
+    "game": "1.15.7",
+    "survival": "1.15.7"
+  },
+  "website": ""
+}
